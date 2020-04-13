@@ -12,3 +12,12 @@ if number
 else
   puts "I don't have a favorite number."
 end
+
+# The code will print "My favourite number is 7"
+# as the local variable number is assigned to an 
+# integer. Any element that isn't false or nil is
+# considered a truthy by ruby, which means it will
+# inherently evaluate to true. 
+# As a result, line 4 will always be executed. 
+
+ 

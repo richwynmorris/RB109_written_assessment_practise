@@ -15,3 +15,9 @@ def count_sheep
 end
 
 p count_sheep
+
+#
+0
+1
+2
+nil
