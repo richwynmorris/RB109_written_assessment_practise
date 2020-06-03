@@ -84,7 +84,7 @@ it does, it returns the parameter's value. If it doesn't, the method returns `fa
 a new array object. If the value is true, it reassigns the value with the returned value and, if it false, it returns
 `false`.
 
-The returned value of the `.map` method will be [false, trip, false, false, talk]. 
+The returned value of the `.map` method will be [false, true, false, false, true]. 
 
 
 This demonstates the concept of transformation through the use of the .map method. Moreover, it demonstrates the implicit 
